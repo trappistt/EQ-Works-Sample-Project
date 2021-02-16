@@ -1,9 +1,4 @@
-# EQ-Works-Sample-Project
+Please read the case study in the pdf file in the repo.
 
-Note: This is a sample project
-
-#About
-
-Being a d
-
-#Design Challenge 
+You can also find all the process and frames on figma with the link below:
+https://www.figma.com/file/qXqsJHOdQQFe3xMhqubyNQ/Dashboard
